@@ -51,3 +51,9 @@ print(conjunto)
 a = {1,2,3,4,4,5}
 b = {6,7,2,3}
 print(a|b)
+
+#Convertir una lista en una cadena 
+
+Listatexto = ['hola','que','haces']
+print(Listatexto)
+print(''.join(Listatexto)) #Esto convierte la lista en una cadena
